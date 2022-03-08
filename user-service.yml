@@ -13,7 +13,7 @@ gateway:
   ip: 172.18.0.5
   
 test:
-  chan: qwerasdfxcv1231231!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  chan: qwerasdfxcv1231231!!!!!!!!!!!!!!!!!!!!!!!!232323!!!!!
 
 #order_service:
 #  url: http://127.0.0.1:8000/order-service/%s/orders
