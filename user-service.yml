@@ -10,7 +10,7 @@ token:
   secret: '{cipher}AQAsbKPAxTW+v2+6a3eAlMSIWWg3Gvx8meO6HqJaDmO4ls6gUBlIglklUA0mex8hrU1rCS0N9CtQhUuhc3eZAYREZbXIQzTUGGRJSBR0ucr8BegH81L+ZxX2NkQIDUUb8hATQdndMgYDZU89D2UxzDtWgZD3xL6Jontys/KvSVz7jfFGHluh/LccyzE6SFIrS+4IldrO1rknFt3wKdgct+PUguSVj8Z14Igs+OsSbsnYVq5BRZF0Z3uV+oGbGDpuhdGzps6XQdBtOd67oAUrFKTDjMeKl+7Z3dIZsh1JwkNZrpm+a+JnlBZFWPfR2D/vAEU8LppmmfONp+eWoGtmZjM9QDZ+vseb1fOZS4zIjoUpRCa+ZOGWxBI8aW2K+pVnp+Y6+NKPv6sLAqOiqNzu+/Er'
 
 gateway:
-  ip: 172.18.0.6
+  ip: 172.18.0.4
   
 test:
   chan: qwerasdfxcv1231231!!!!!!!!!!!!!!!!!!!!!!!!232323!!!!!
