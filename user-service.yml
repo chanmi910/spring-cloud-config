@@ -15,8 +15,8 @@ gateway:
 test:
   chan: qwerasdfxcv1231231!!!!!!!!!!!!!!!!!!!!!!!!232323!!!!!
 
-#order_service:
+order_service:
+  url: http://ORDER-SERVICE/order-service/%s/orders
 #  url: http://127.0.0.1:8000/order-service/%s/orders
-  #url: http://ORDER-SERVICE/order-service/%s/orders
 #  exception:
 #    orders_is_empty: User's Order is empty.
